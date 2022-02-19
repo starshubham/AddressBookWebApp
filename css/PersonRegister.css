@@ -37,3 +37,12 @@ body
     line-height: 20px;
      
 }
+.logo_text_book
+{
+    color: darkslategray;
+}
+.logo_icon
+{
+    height: 50px;
+    width: 40px;
+}
